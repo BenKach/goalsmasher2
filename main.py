@@ -1,6 +1,5 @@
 import streamlit as st
 import functions
-import pandas as pd
 
 todos = functions.get_todos()
 
